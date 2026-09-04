@@ -1,4 +1,4 @@
-# Promage Dashboard (React.js)
+# Promage Dashboard 
 
 A responsive and polished dashboard built with React.js — includes a collapsible sidebar, animated circular progress display, and clean modern UI.
 
@@ -13,17 +13,6 @@ A responsive and polished dashboard built with React.js — includes a collapsib
 
 ---
 
-##  Folder Structure
-promage-dashboard/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   ├── assets/
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-└── README.md
 ##  How to Run Locally
 
 1 Open the folder in VS Code.
